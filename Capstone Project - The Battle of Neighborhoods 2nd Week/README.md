@@ -19,3 +19,6 @@ In this week, you will continue working on your capstone project. Please remembe
 > 1. Report: http://bit.ly/31RseTc
 > 2. Notebook: http://bit.ly/2ORu9lj
 > 3. Blogpost: http://bit.ly/2Sm4ALm
+
+Final Report Link: https://gadgetguys.in/final-report-finding-a-better-place-in-scarborough/
+Presentation Link: https://gadgetguys.in/finding-a-better-place-in-scarborough/
